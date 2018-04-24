@@ -1,0 +1,52 @@
+home page : 
+	- slideshow/background video
+	- Sto e aikido
+	- kratko za klubot
+	- latest posts
+
+Za nas:
+	- dolg istorijat na klubot
+	- listing na sensei
+	- kratok kontakt
+
+Sensei:
+	- 3 sensei, edna strana, slika, kratka biografija i video
+
+Media:
+	- 3 videa
+	- slideshow
+	- 2 video redica
+
+Koktakt:
+	- google maps
+	- adresa
+	- email
+	- telefon
+	- facebook i socialni
+	- kontakt forma
+
+Tehniki:
+	- videa
+	- opcionalen blog link
+	
+Seminari: 
+	- Tekst
+	- Lokacija
+	- Promotiven materijal
+
+Ponudi:
+	- tekst za ponudata
+	- slika
+
+Blog:
+	- Naslov
+	- Opcionalni 2 podnaslovi
+	- Tekst
+	- Slika
+	- opcionalno video
+	- komentari
+	- katergorii
+	- tagovi
+	
+Korisnici:
+	- mozen newletter		
