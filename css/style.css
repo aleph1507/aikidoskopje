@@ -23,6 +23,11 @@ html, body {
 
 /* ./nav */
 
+
+/* general */
+
+/* ./general */
+
 /* bg-video */
 
 .bgvid {
@@ -119,7 +124,7 @@ div#our-club h1 {
 div#address {
   display:flex;
   flex-direction: column;
-  height: 15vh;
+  /* height: 15vh; */
   margin-top: 5vh;
   justify-content: space-around;
   align-items: space-around;
@@ -186,4 +191,85 @@ div#club-history p {
   text-align:center;
 }
 
+
+/* map */
+
+.standard-header {
+  text-shadow: 3px 3px #999;
+}
+
+div#map {
+  margin-top: 5%;
+  text-align:center
+}
+
+div#map #address {
+  margin:2%;
+  display:flex;
+  flex-direction: column;
+  /* height: 15vh; */
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  background: rgba(0,0,0,0.1);
+  color: rgba(0,0,0,0.8);
+  font-weight: bold;
+  padding-top:5vh;
+  padding-bottom: 5vh;
+  text-align: center;
+  border-radius: 40px;
+  text-shadow: 2px 2px #BBB;
+  border: 1px solid rgba(0,0,0,0.8);
+}
+
+/* ./map */
+
+/* sensei-short */
+
+.sensei-short {
+  margin-top:5%;
+  margin-bottom:10%;
+}
+
+/* ./sensei-short */
+
 /* ./about-club */
+
+/* footer */
+
+/* sensei */
+
+img.sensei-img {
+  float:left;
+  margin-right: 5em;
+  margin-bottom: 5em;
+  margin-top: 1em;
+  margin-left: 1em;
+  max-width: 50%;
+}
+
+.sensei-video {
+  width: 100%;
+  min-height: 50vh;
+}
+
+/* ./sensei */
+
+
+.page-footer {
+  background-color: rgba(0,0,0,0.9);
+  /* position:relative;bottom:0;left:0;width:100%; */
+}
+
+/* ./footer */
+
+/* index-footer */
+#index-footer {
+  position: relative;
+  top: 130vh;
+  /* color: black; */
+}
+
+#sensei-footer {
+  position:relative;bottom:0;left:0;width:100%;
+}
+/* ./index-footer */
